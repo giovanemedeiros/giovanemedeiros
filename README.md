@@ -11,3 +11,13 @@ Este catálogo de projetos públicos é classificado e atualizado automaticament
 | [**playwright-ui-validation**](https://github.com/giovanemedeiros/playwright-ui-validation) | Automação E2E no Playwright para validações de formulário (Serverest) com técnicas ISTQB (Partição de Equivalência, BVA), BDD/Gherkin e automação Jira + GitHub. |
 | [**playwright-ui-cart**](https://github.com/giovanemedeiros/playwright-ui-cart) | Automação de testes End-to-End (E2E) para o módulo de Carrinho de Compras do Serverest utilizando Playwright, JavaScript e GitHub Projects (Kanban). |
 | [**playwright-ui-auth**](https://github.com/giovanemedeiros/playwright-ui-auth) | Automação de testes E2E para o módulo de autenticação (UI) utilizando Playwright e JavaScript e GitHub Projects (Kanban). |
+
+### RPA & Automação de Processos
+| Repositório | Descrição |
+| :--- | :--- |
+| [**github-profile-catalog-bot**](https://github.com/giovanemedeiros/github-profile-catalog-bot) | Sem descrição informada. |
+
+### Outros Projetos
+| Repositório | Descrição |
+| :--- | :--- |
+| [**giovanemedeiros**](https://github.com/giovanemedeiros/giovanemedeiros) | Catálogo dinâmico de projetos públicos e perfil profissional no GitHub. |
