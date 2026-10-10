@@ -15,7 +15,7 @@ Este catálogo de projetos públicos é classificado e atualizado automaticament
 ### RPA & Automação de Processos
 | Repositório | Descrição |
 | :--- | :--- |
-| [**github-profile-catalog-bot**](https://github.com/giovanemedeiros/github-profile-catalog-bot) | Sem descrição informada. |
+| [**github-profile-catalog-bot**](https://github.com/giovanemedeiros/github-profile-catalog-bot) | Automação de catalogação e sincronização dinâmica de repositórios com TypeScript, Node.js e Octokit API, cobrindo ordenação cronológica, categorização estrita por tópicos, gestão ágil no Jira Software e pipeline CI/CD no GitHub Actions. |
 
 ### Outros Projetos
 | Repositório | Descrição |
