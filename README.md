@@ -15,6 +15,7 @@ Este catálogo de projetos públicos é classificado e atualizado automaticament
 ### RPA & Automação de Processos
 | Repositório | Descrição |
 | :--- | :--- |
+| [**github-repo-mirror-backup**](https://github.com/giovanemedeiros/github-repo-mirror-backup) | Automação de backup e espelhamento Git com TypeScript, Node.js e Octokit API, cobrindo clone bare, detecção de drift multi-dimensional, retenção soft-delete de 30 dias, blindagem OpSec em modo stealth, gestão ágil no Jira e CI/CD agendado no GitHub Actions. |
 | [**github-profile-catalog-bot**](https://github.com/giovanemedeiros/github-profile-catalog-bot) | Automação de catalogação e sincronização dinâmica de repositórios com TypeScript, Node.js e Octokit API, cobrindo ordenação cronológica, categorização estrita por tópicos, gestão ágil no Jira Software e pipeline CI/CD no GitHub Actions. |
 
 ### Outros Projetos
