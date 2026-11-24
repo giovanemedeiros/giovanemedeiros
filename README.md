@@ -1,0 +1,27 @@
+Bem-vindo ao meu perfil do GitHub!
+
+Este catálogo de projetos públicos é classificado e atualizado automaticamente pelo robô [**github-profile-catalog-bot**](https://github.com/giovanemedeiros/github-profile-catalog-bot), consumindo a API oficial do GitHub e organizando os projetos por área em ordem cronológica reversa (do mais recente para o mais antigo).
+
+### QA & Automação de Testes
+| Repositório | Descrição |
+| :--- | :--- |
+| [**rede-raizes-do-nordeste**](https://github.com/giovanemedeiros/rede-raizes-do-nordeste) | Projeto acadêmico desenvolvido para a disciplina de "Projeto: Engenharia de Software" da UNINTER. Contempla Engenharia de Requisitos, Modelagem Arquitetural em camadas, Plano de QA, conformidade com a LGPD e suíte de automação de testes com Playwright e TypeScript para a rede Raízes do Nordeste. |
+| [**playwright-hybrid-e2e**](https://github.com/giovanemedeiros/playwright-hybrid-e2e) | Automação de testes E2E Híbrida (API + UI) com Playwright e TypeScript na aplicação ServeRest. Inclui setup/teardown via API, auth bypass no localStorage, gestão ágil no Azure DevOps Boards e pipeline CI/CD no GitHub Actions. |
+| [**playwright-api-backend**](https://github.com/giovanemedeiros/playwright-api-backend) | Automação de testes de API REST com Playwright e TypeScript na API ServeRest, cobrindo autenticação JWT, controle de acesso RBAC, documentação viva no Postman e gestão ágil no Azure DevOps Boards. |
+| [**playwright-ui-rbac**](https://github.com/giovanemedeiros/playwright-ui-rbac) | Automação de testes E2E com Playwright em JavaScript focada em Controle de Acesso e Permissões (RBAC) no Serverest, com matrizes de permissão e integração ágil no Jira Software. |
+| [**playwright-ui-validation**](https://github.com/giovanemedeiros/playwright-ui-validation) | Automação E2E no Playwright para validações de formulário (Serverest) com técnicas ISTQB (Partição de Equivalência, BVA), BDD/Gherkin e automação Jira + GitHub. |
+| [**playwright-ui-cart**](https://github.com/giovanemedeiros/playwright-ui-cart) | Automação de testes End-to-End (E2E) para o módulo de Carrinho de Compras do Serverest utilizando Playwright, JavaScript e GitHub Projects (Kanban). |
+| [**playwright-ui-auth**](https://github.com/giovanemedeiros/playwright-ui-auth) | Automação de testes E2E para o módulo de autenticação (UI) utilizando Playwright e JavaScript e GitHub Projects (Kanban). |
+
+### RPA & Automação de Processos
+| Repositório | Descrição |
+| :--- | :--- |
+| [**n8n-crm-integration-lab**](https://github.com/giovanemedeiros/n8n-crm-integration-lab) | Laboratório prático de automação e integração de CRM com n8n e Docker, cobrindo ingestão via Webhooks, validação de payloads, roteamento condicional de leads e validação via Postman. |
+| [**rpa-data-extractor-python**](https://github.com/giovanemedeiros/rpa-data-extractor-python) | Robô corporativo de RPA e Engenharia de Dados em Python 3.11, Playwright (Chromium Headless), Pandas e OpenPyXL. Extração resiliente da carteira do Ibovespa na B3, análise de concentração, relatórios automatizados (CSV, XLSX e PDF), CI/CD no GitHub Actions e governança ágil no Jira Software. |
+| [**github-repo-mirror-backup**](https://github.com/giovanemedeiros/github-repo-mirror-backup) | Automação de backup e espelhamento Git com TypeScript, Node.js e Octokit API, cobrindo clone bare, detecção de drift multi-dimensional, retenção soft-delete de 30 dias, blindagem OpSec em modo stealth, gestão ágil no Jira e CI/CD agendado no GitHub Actions. |
+| [**github-profile-catalog-bot**](https://github.com/giovanemedeiros/github-profile-catalog-bot) | Automação de catalogação e sincronização dinâmica de repositórios com TypeScript, Node.js e Octokit API, cobrindo ordenação cronológica, categorização estrita por tópicos, gestão ágil no Jira Software e pipeline CI/CD no GitHub Actions. |
+
+### Outros Projetos
+| Repositório | Descrição |
+| :--- | :--- |
+| [**giovanemedeiros**](https://github.com/giovanemedeiros/giovanemedeiros) | Catálogo dinâmico de projetos públicos e perfil profissional no GitHub. |
